@@ -1,0 +1,5 @@
+git clone the code
+install the maven package # apt install maven
+go to the project directory # exm: cd /spring
+run the maven goal to install dependecy and build the jar package # mvn install
+after create the dockerfile deploy the it in container and browse ur project # <ip address>:<port>
